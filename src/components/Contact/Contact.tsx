@@ -19,8 +19,8 @@ export function Contact(){
           <a href="kongupradeep82333@gmail.com">kongupradeep82333@gmail.com</a>
         </div>
         <div>
-        <a href="tel:+919630576848"><img src={phoneIcon} alt="Phone No" /></a>
-          <a href="tel:+919630576848">(+91) 9488182333</a>
+        <a href="tel:+919488182333"><img src={phoneIcon} alt="Phone No" /></a>
+          <a href="tel:+919488182333">(+91) 9488182333</a>
         </div>  
       </div>
       <Form></Form>
