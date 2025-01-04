@@ -129,6 +129,7 @@ export function Form() {
   const handleFormSubmit = async (event: FormEvent<HTMLFormElement>) => {
         event.preventDefault();
         await handleSubmit(event);
+        console.log(emailAddress);
     };
 
 
