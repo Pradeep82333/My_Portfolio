@@ -13,7 +13,7 @@ This is my portfolio website to introduce myself, here I put my skills, projects
 - yarn install
 - yarn run start"# My_Portfolio" 
 
-         OR
+ OR
 
 - npm install
 - npm run dev
